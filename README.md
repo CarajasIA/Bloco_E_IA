@@ -67,6 +67,10 @@ Ative o ambiente no Windows:
 .\.venv\Scripts\Activate.ps1
 ```
 
+
+Ative o ambiente no Linux : 
+
+
 ```bash 
 source .venv/bin/activate
 ```
