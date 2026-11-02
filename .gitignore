@@ -27,6 +27,10 @@ env/
 Thumbs.db
 
 # =========================
+# Arquivos sensíveis 
+# =========================
+Dados Github carajas.txt
+# =========================
 # Configurações locais
 # =========================
 .env

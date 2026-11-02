@@ -51,7 +51,7 @@ conforme a definição do conjunto de dados final.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone  https://github.com/CarajasIA/Bloco_E_IA.git
 cd Bloco_E_Geofisica_IA
 ```
 
@@ -67,7 +67,7 @@ Ative o ambiente no Windows:
 .\.venv\Scripts\Activate.ps1
 ```
 
-```terminal linux 
+```bash 
 source .venv/bin/activate
 ```
 
