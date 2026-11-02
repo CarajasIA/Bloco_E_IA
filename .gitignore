@@ -1,0 +1,49 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# =========================
+# Ambientes virtuais
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Arquivos temporários
+# =========================
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# =========================
+# Configurações locais
+# =========================
+.env
+.vscode/
+.idea/
+
+# =========================
+# Dados geofísicos
+# =========================
+data/raw/*
+data/interim/*
+data/processed/*
+data/synthetic/*
+
+# =========================
+# Resultados gerados
+# =========================
+results/figures/*
+results/tables/*
+results/models/*
